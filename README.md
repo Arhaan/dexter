@@ -1,2 +1,2 @@
-# dexter
-A text Editor
+# Dexter
+A Text Editor
